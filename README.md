@@ -4,6 +4,10 @@
 
 Simple no recoil script for Linux which writes into your input device directly, written in python.
 
+## Demo
+
+![nruti demo](./.github/assets/nrtui.png)
+
 ## About
 
 - no recoil script

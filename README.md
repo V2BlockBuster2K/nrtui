@@ -19,7 +19,7 @@ Simple no recoil script for Linux which writes into your input device directly, 
 
 Nrtui requires Python>=3.9 and python-ctypes to run. All other dependencies are installed automatically by the setup file.
 
-To install run:
+I recommend using it in a python venv since it requires root, to install run:
 
 ```sh
 git clone https://github.com/V2BlockBuster2K/nrtui.git
